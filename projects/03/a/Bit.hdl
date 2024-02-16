@@ -8,11 +8,14 @@
  * Otherwise, the register maintains its current value:
  * if (load(t)) out(t+1) = in(t), else out(t+1) = out(t)
  */
+
+// DFF always stores the "in" bit, while Bit only stores if if "loadL is set to 1.
+// DFF can store information for one time unit only, while Bit can store it for man cycles.
 CHIP Bit {
     IN in, load;
     OUT out;
 
     PARTS:
-    Mux(a=state ,b=in ,sel=load ,out=tmp);
-    DFF(in=tmp ,out=out ,out=state);
+    Mux(a=state, b=in, sel=load, out=tmp);
+    DFF(in=tmp, out=out, out=state);
 }
