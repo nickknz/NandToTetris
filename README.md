@@ -8,7 +8,7 @@ Having built the computer's ALU, this module we turn to building the computer's 
 ## Project Progress
 - [X] Project 1
 - [X] Project 2
-- [ ] Project 3
+- [X] Project 3
 - [ ] Project 4
 - [ ] Project 5
 - [ ] Project 6
