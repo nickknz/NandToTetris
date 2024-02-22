@@ -11,7 +11,6 @@
 // 'white' in every pixel;
 // the screen should remain fully clear as long as no key is pressed.
 
-
 // Pseudocode:
 // kbd = GetKBD();
 // if(kbd>0) goto BLACK;
