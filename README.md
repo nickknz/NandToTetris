@@ -12,7 +12,7 @@ A critically important aspect of building a new computer system is designing the
 - [X] Project 1
 - [X] Project 2
 - [X] Project 3
-- [ ] Project 4
+- [X] Project 4
 - [ ] Project 5
 - [ ] Project 6
 
