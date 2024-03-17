@@ -20,5 +20,5 @@ Let's recap the last four modules: we've built some elementary logic gates (modu
 - [X] Project 3
 - [X] Project 4
 - [X] Project 5
-- [ ] Project 6
+- [X] Project 6
 
