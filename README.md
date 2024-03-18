@@ -13,6 +13,21 @@ Let's recap the last four modules: we've built some elementary logic gates (modu
 
 **Key concepts:** Von Neumann and Harvard architectures, the stored program concept, fetch-execute cycle, data bus, instruction bus, CPU, computer design.
 
+### Project 6
+Every computer has a binary machine language, in which instructions are written as series of 0's and 1's, and a symbolic machine language, also known as assembly language, in which instructions are expressed using human-friendly mnemonics. Both languages do exactly the same thing, and are completely equivalent. But, writing programs in assembly is far easier and safer then writing in binary. In order to enjoy this luxury, someone has to translate our symbolic programs into binary code that can execute as-is on the target computer. This translation service is done by an agent called assembler. The assembler can be either a person who carries out the translation manually, or a computer program that automates the process. In this module and final project in the course we learn how to build an assembler. In particular, we'll develop the capability of translating symbolic Hack programs into binary code that can be executed as-is on the Hack platform. Each one of you can choose to accomplish this feat in two different ways: you can either implement an assembler using a high-level language, or you can simulate the assembler's operation using paper and pencil. In both cases we give detailed guidelines about how to carry out your work.
+
+**Key concepts:** Binary and symbolic machine languages, parsing, symbol tables, code generation, cross assembler, assembler implementation.
+
+### Project 7
+In some modern languages, most notably Java, the high-level code is not translated directly into machine language. Rather, Java compilers translate the high-level source code into code written in an intermediate language, designed to operate on some abstract processing layer known as a virtual machine.
+
+In this module we begin building a stack-based virtual machine. After presenting the virtual machine architecture and its VM language (which is similar to Java's bytecode), we develop a basic VM translator (similar to Java's JVM), designed to translate VM programs into the Hack machine language. In the next module we'll extend this basic translator into a full-scale VM implementation. This implementation, in turn, will serve as the backend module of the two-tier compiler that we'll develop later in the course.
+
+**Key concepts:** two-tier compilation (overview), virtualization, virtual machines, VM abstraction, stack processing, pointers, VM implementation, VM translators.
+
+### Project 8
+### Project 9
+
 
 ## Project Progress
 - [X] Project 1
