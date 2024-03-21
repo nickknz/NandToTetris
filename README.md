@@ -24,6 +24,8 @@ In some modern languages, most notably Java, the high-level code is not translat
 In this module we begin building a stack-based virtual machine. After presenting the virtual machine architecture and its VM language (which is similar to Java's bytecode), we develop a basic VM translator (similar to Java's JVM), designed to translate VM programs into the Hack machine language. In the next module we'll extend this basic translator into a full-scale VM implementation. This implementation, in turn, will serve as the backend module of the two-tier compiler that we'll develop later in the course.
 
 **Key concepts:** two-tier compilation (overview), virtualization, virtual machines, VM abstraction, stack processing, pointers, VM implementation, VM translators.
+<img width="923" alt="image" src="https://github.com/Nick-zhen/NandToTetris/assets/62523802/d9c8244b-c02f-4566-bf15-c60ee4c41ac7">
+
 
 ### Project 8
 ### Project 9
