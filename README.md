@@ -27,6 +27,7 @@ In this module we begin building a stack-based virtual machine. After presenting
 
 ### Project 8
 ### Project 9
+### Project 10
 
 
 ## Project Progress
