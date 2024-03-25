@@ -26,8 +26,13 @@ In this module we begin building a stack-based virtual machine. After presenting
 **Key concepts:** two-tier compilation (overview), virtualization, virtual machines, VM abstraction, stack processing, pointers, VM implementation, VM translators.
 <img width="923" alt="image" src="https://github.com/Nick-zhen/NandToTetris/assets/62523802/d9c8244b-c02f-4566-bf15-c60ee4c41ac7">
 
-
 ### Project 8
+In this module we'll complete the VM translator by implementing the remaining VM language's branching and function-calling commands.
+
+Branching and function-calling are of course major elements of programming theory and practice. Therefore, we'll start the module with a general overview of their usage, abstraction and implementation. This will set the stage for the remainder of the module, in which we'll complete the specification and implementation of the VM translator.
+
+**Key concepts:** branching, functions, function call-and-return, dynamic memory management, stack processing, pointers, standard mapping, VM implementation.
+
 ### Project 9
 ### Project 10
 
