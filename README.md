@@ -34,6 +34,12 @@ Branching and function-calling are of course major elements of programming theor
 **Key concepts:** branching, functions, function call-and-return, dynamic memory management, stack processing, pointers, standard mapping, VM implementation.
 
 ### Project 9
+In this module we introduce the Jack language, as well as Jack programming. The module culminates in a project in which you will develop a simple interactive application of your choice, using Jack.
+
+It's important to note that in and by itself, Jack programming is not an important element of this course. Rather, we want you play with Jack, and experience the language from a programmer's perspective. This familiarity will serve you well when you will set out to develop a Jack compiler and operating system, later in the course.
+
+Key concepts: procedural programming, object-based programming, classes, methods, functions, constructors, list processing, recursion, developing interactive applications, graphics optimization. 
+
 ### Project 10
 
 
