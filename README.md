@@ -51,7 +51,7 @@ Key concepts: procedural programming, object-based programming, classes, methods
 - [X] Project 5
 - [X] Project 6
 - [X] Project 7
-- [ ] Project 8
+- [X] Project 8
 - [ ] Project 9
 - [ ] Project 10
 
