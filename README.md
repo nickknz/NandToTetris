@@ -38,10 +38,14 @@ In this module we introduce the Jack language, as well as Jack programming. The 
 
 It's important to note that in and by itself, Jack programming is not an important element of this course. Rather, we want you play with Jack, and experience the language from a programmer's perspective. This familiarity will serve you well when you will set out to develop a Jack compiler and operating system, later in the course.
 
-Key concepts: procedural programming, object-based programming, classes, methods, functions, constructors, list processing, recursion, developing interactive applications, graphics optimization. 
+**Key concepts:** procedural programming, object-based programming, classes, methods, functions, constructors, list processing, recursion, developing interactive applications, graphics optimization. 
 
 ### Project 10
+Syntax analysis - the subject of this module -  consists of two sub-stages: lexical analysis (also called tokenizing), and parsing.
 
+We'll begin by presenting the basic concepts underlying lexical analysis and parsing. This will set the stage to the rest of the module, in which we'll implement a tokenizer and parser for the Jack language. The result will be a Jack analyzer - a program that unveils the syntax of Jack programs without generating executable code.
+
+**Key concepts:** tokenizing, grammars, parsing, parse trees, XML / mark-up, compilation.
 
 ## Project Progress
 - [X] Project 1
