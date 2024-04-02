@@ -58,4 +58,6 @@ We'll begin by presenting the basic concepts underlying lexical analysis and par
 - [X] Project 8
 - [X] Project 9
 - [ ] Project 10
+- [ ] Project 11
+- [ ] Project 12
 
