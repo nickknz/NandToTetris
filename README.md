@@ -46,6 +46,8 @@ Syntax analysis - the subject of this module -  consists of two sub-stages: lexi
 We'll begin by presenting the basic concepts underlying lexical analysis and parsing. This will set the stage to the rest of the module, in which we'll implement a tokenizer and parser for the Jack language. The result will be a Jack analyzer - a program that unveils the syntax of Jack programs without generating executable code.
 
 **Key concepts:** tokenizing, grammars, parsing, parse trees, XML / mark-up, compilation.
+### Project 11
+### Project 12
 
 ## Project Progress
 - [X] Project 1
