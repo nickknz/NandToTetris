@@ -48,7 +48,14 @@ We'll begin by presenting the basic concepts underlying lexical analysis and par
 **Key concepts:** tokenizing, grammars, parsing, parse trees, XML / mark-up, compilation.
 <img width="1250" alt="image" src="https://github.com/Nick-zhen/NandToTetris/assets/62523802/6429e2ff-f84c-4b30-ad6f-10c475648c1d">
 
-### Project 11
+### Project 11 (Compiler II / Code Generation) Overview
+In the previous module you've built a syntax analyzer for the Jack language. In this module we will morph this analyzer into a full-scale Jack compiler. This will entail modifying the analyzer's logic that generates XML code into logic that generates executable VM code.
+
+In order to do so, we'll describe how to generate VM code that translates procedural programs into VM programs, and how to generate VM code for constructing and manipulating arrays and objects.
+
+We will then guide you how to use these code generation techniques for transforming the Jack analyzer developed in the previous project into a full-scale Jack compiler. This will be the end of the four-module journey in which you've developed a two-tier compiler, based on a backend virtual machine.
+
+**Key concepts:** compiling procedural code, compiling the construction and manipulation of arrays and objects, code generation techniques, recursive compilation engine, symbol tables, memory management.
 
 ### Project 12
 
