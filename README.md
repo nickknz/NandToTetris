@@ -57,7 +57,7 @@ We will then guide you how to use these code generation techniques for transform
 
 **Key concepts:** compiling procedural code, compiling the construction and manipulation of arrays and objects, code generation techniques, recursive compilation engine, symbol tables, memory management.
 
-### Project 12
+### Project 12 (OS implementation)
 
 ### Project 13
 
