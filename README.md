@@ -58,6 +58,13 @@ We will then guide you how to use these code generation techniques for transform
 **Key concepts:** compiling procedural code, compiling the construction and manipulation of arrays and objects, code generation techniques, recursive compilation engine, symbol tables, memory management.
 
 ### Project 12 (OS implementation)
+An operating system is a collection of software services designed to close gaps between high-level programs and the underlying hardware on which they run.
+
+In particular, operating systems provide numerous low-level services such as accessing the computer's RAM, keyboard, and screen.  In addition, a typical operating systems provides libraries for common mathematical operations, string processing operations, and more.
+
+Modern languages like Java and Python are deployed together with a standard class libraries that implement many such OS services.  In this module we'll develop a basic OS that will be packaged in a similar set of class libraries. The OS will be developed in Jack, using a bootstrapping strategy, similar to how Linux was developed in C.
+
+Operating system code must be highly efficient. With that in mind, we'll devote a considerable part of this module for presenting elegant and efficient algorithms. Taken together, these algorithms form a cool display of computer science gems. Learning and implementing these algorithms in the context of an OS will be a nice way to celebrate the end of your Nand to Tetris journey. 
 
 ### Project 13
 
@@ -71,7 +78,7 @@ We will then guide you how to use these code generation techniques for transform
 - [X] Project 7
 - [X] Project 8
 - [X] Project 9
-- [ ] Project 10
-- [ ] Project 11
+- [X] Project 10
+- [X] Project 11
 - [ ] Project 12
 
