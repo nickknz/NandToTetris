@@ -80,5 +80,5 @@ Operating system code must be highly efficient. With that in mind, we'll devote 
 - [X] Project 9
 - [X] Project 10
 - [X] Project 11
-- [ ] Project 12
+- [X] Project 12
 
